@@ -2,7 +2,7 @@
 
 Overview:
 This excel-based Hospital Emergency Room Dashboard provides a comprehensive overview of key metrics related to patient flow and service efficiency.
-Designed to help hospital administrators and healthcare professionals monitor the perormance of their emergency room ,this interactive dashboard offers insights into patient numbers,wait time.
+Designed to help hospital administrators and healthcare professionals monitor the performance of their emergency room ,this interactive dashboard offers insights into patient numbers,wait time.
         
 Key Features:
 * Monthly data view : Easily filter and analyze patient data on a monthly basis, with the ability to track trends over time.
